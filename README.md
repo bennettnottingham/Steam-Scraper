@@ -15,6 +15,9 @@ A Python-based web scraper that navigates through the Steam Store, focusing on t
    - Sale Status (Whether the game is currently on sale)
 3. **Output**: Outputs the scraped data to a CSV file named `steam_games.csv`. The CSV contains 9,206 rows, each corresponding to a distinct video game's data.
 
+<img width="835" alt="Screenshot 2023-08-28 at 12 00 36 AM" src="https://github.com/bennettnottingham/Steam-Scraper/assets/65934399/521917e0-f002-4785-81e2-c4951a462005">
+
+
 ### Usage:
 
 1. Ensure all required packages (`selenium`, `beautifulsoup4`, `pandas`) are installed.
