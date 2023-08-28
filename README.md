@@ -13,7 +13,7 @@ A Python-based web scraper that navigates through the Steam Store, focusing on t
    - Review Summary
    - Number of Reviews
    - Sale Status (Whether the game is currently on sale)
-3. **Output**: Outputs the scraped data to a CSV file for further analysis or storage.
+3. **Output**: Outputs the scraped data to a CSV file named `steam_games.csv`. The CSV contains 9,206 rows, each corresponding to a distinct video game's data.
 
 ### Usage:
 
